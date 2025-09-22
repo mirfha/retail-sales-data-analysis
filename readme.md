@@ -1,4 +1,4 @@
-# Exploritory Data Analysis on Retail Sales
+# Exploratory Data Analysis on Retail Sales
 
 ## Project Objective
 
